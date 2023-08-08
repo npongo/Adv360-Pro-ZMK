@@ -1,0 +1,2 @@
+add alt+x to hotkey 1
+map hotkey 2 to f5
